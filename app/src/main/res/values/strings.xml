@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aston_custom_views</string>
+    <string name="swipe">swipe</string>
+    <string name="edittext_hint">Enter url here…</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aston">aston</string>
+    <string name="title">Custom views</string>
+    <string name="done_by">done by\ndanil stalmakov\nfor aston</string>
+    <string name="task_title">Custom clock</string>
+    <string name="time_zone">Moscow time</string>
+</resources>
